@@ -1,1 +1,1 @@
-# eazy-gsms
+# Public Release Repository for GSMS
